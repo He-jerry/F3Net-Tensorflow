@@ -42,7 +42,6 @@ def random_light(x):
 
 def getTrainGenerator(file_path,mask_path, target_size, batch_size, israndom=False):
     g = os.walk(file_path)
-    #g = os.walk(r"/home/mia_dev/Documents/dataset/OCT_Aw/train2/train/image")
     batch_x = []
     batch_y = []
     p=[]
