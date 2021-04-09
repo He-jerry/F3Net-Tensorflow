@@ -17,3 +17,9 @@ Framework reference:
 
 https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection
 (Thanks for the tensorflow framework)
+
+Official Reference:
+
+https://github.com/weijun88/F3Net
+
+Thanks authors for official implementation to guide our re-implement in Tensorflow.
